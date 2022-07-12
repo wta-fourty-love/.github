@@ -1,4 +1,7 @@
-# Application checks:
+# Application:
+
+## Design v0.0.1
+![v.0.0.1_design_wifreframe](/images/wifreframes/wifreframe.png?raw=true "Design v.0.0.1")
 
 ## Production:
 ### Security Status:
