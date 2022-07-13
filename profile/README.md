@@ -1,7 +1,7 @@
 # Application:
 
 ## Design v0.0.1
-![v.0.0.1_design_wifreframe](/images/wireframes/wireframe-0.0.1.png?raw=true "Design v.0.0.1")
+![](wireframe-0.0.1.png)
 
 ## Production:
 ### Security Status:
