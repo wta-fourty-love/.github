@@ -1,7 +1,7 @@
 # Application:
 
 ## Design v0.0.1
-![](wireframe-0.0.1.png)
+![Wireframe Design v0.0.1](https://user-images.githubusercontent.com/74333541/178600078-24133246-557b-4927-8e3a-2864455c15da.png)
 
 ## Production:
 ### Security Status:
